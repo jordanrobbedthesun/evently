@@ -16,8 +16,8 @@ namespace EventlyGUI {
     static int selectedEventID = -1;
     static bool gamerKat = false;
     
-    static int selectedMonth = 10;
-    static int selectedYear = 2023;
+    static int selectedMonth = 2;
+    static int selectedYear = 2024;
 
     const char* colors[6] = {"Red", "Orange", "Yellow", "Green", "Blue", "Purple"};
 
